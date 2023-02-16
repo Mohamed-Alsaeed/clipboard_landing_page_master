@@ -4,5 +4,5 @@
 
 ## Welcome! 👋
 
-### Thanks for checking out this front-end coding challenge which designed by the most profissional programmer : Mohamed Alsaeed
+### Thanks for checking out this front-end coding challenge which designed by the most profissional programmer : Mohamed Alsaeed 🙂
 
